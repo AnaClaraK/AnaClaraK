@@ -15,10 +15,10 @@ Ter uma Carreira concentrada em Desenvolvedor Full-Stack com o objetivo de gerar
 ## 🎓Formação Acadêmica
 - Curso Técnico em Desenvolvimento de Sistemas - Senai Santo Paschoal Crepaldi (2025 - 2026)
 ## 💻Competências Técnicas
-- **Front-end:** HTML e Javascript
+- **Front-end:** HTML, CSS e Javascript
 Back-end: Python e Javascript
 - **Bibliotecas:** Tkinter, Node.js
-- **Ferramentas:** Git, Notion,e Canva
+- **Ferramentas:** Git, Notion e Canva
 - **Conhecimentos:** Programação em Python, Levantamento de Requisitos, Sistemas Operacionais e Arquitetura de Redes com IOT
 ## 📜Certificações e Cursos 
 - **Inglês** - Kumon - (2022 - 2024)
