@@ -20,9 +20,17 @@ Ter uma Carreira concentrada em Desenvolvedor Full-Stack com o objetivo de gerar
 - **Bibliotecas:** Tkinter, Node.js
 - **Ferramentas:** Git, Notion e Canva
 - **Conhecimentos:** Programação em Python, Levantamento de Requisitos, Sistemas Operacionais e Arquitetura de Redes com IOT
+
 ## 📜Certificações e Cursos 
 - **Inglês** - Kumon - (2022 - 2024)
 - **Fundamentos do Design Gráfico** – Fundação Bradesco – 2024 
+- **Fundamentos do Python** - Senai 2025
+- **Implantação de Serviços em Nuvem-Microsoft AZ-900** - Senai 2025
+- **Por dentro da Segurança em  Nuvem-Microsoft AZ-900** - Senai 2025
+- **Por dentro da Segurança Cibernética** - Senai 2025
+- **Ética na Inteligência Artificial** - Senai 2025
+- **Desvendando a Descarbonização** - Senai 2025
+- **Competência Transversal-Segurança no Trabalho** - Senai 2025
 
 ## 🏆Habilidades interpessoais 
 - Trabalho em equipe
