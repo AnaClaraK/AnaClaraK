@@ -10,7 +10,6 @@ Ter uma Carreira concentrada em Desenvolvedor Full-Stack com o objetivo de gerar
 ## 🗣️Idiomas
 - **Português:** Nativo
 - **Inglês:** Intermediário(B1)
-- **Francês:** Básico(A1)
 
 ## 🎓Formação Acadêmica
 - Curso Técnico em Desenvolvimento de Sistemas - Senai Santo Paschoal Crepaldi (2025 - 2026)
