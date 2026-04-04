@@ -5,7 +5,6 @@
 - **LinkedIn:** https://www.linkedin.com/in/ana-clara-cacao/
 ## 🎯 Objetivo Profissional
 Ter uma Carreira concentrada em Desenvolvedor Full-Stack com o objetivo de gerar impacto positivo para os usuários e impulsionar o crescimento da equipe na empresa.
-- Obter certificações na área como AZ-900
 
 ## 🗣️Idiomas
 - **Português:** Nativo
