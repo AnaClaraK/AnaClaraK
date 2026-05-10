@@ -1,8 +1,14 @@
 # 👋 Olá, eu sou a Ana Clara!
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220px">
+
 💻 Desenvolvedora Full-Stack em formação  
 🎯 Focada em criar soluções úteis, funcionais e com boa experiência para o usuário.  
 📚 Sempre aprendendo novas tecnologias e evoluindo meus projetos.
+
+</div>
 
 ---
 
@@ -40,12 +46,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 
 ## 🛠️ Ferramentas
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" height="45" />
   <img src="https://skillicons.dev/icons?i=notion" height="45" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" />
   <img src="https://skillicons.dev/icons?i=ps" height="45" />
 </p>
+
 ---
 
 # 📚 Conhecimentos
@@ -73,6 +80,16 @@
 
 ---
 
+# 🎵 Spotify
+
+<div align="center">
+
+[![Spotify]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lvrdius5exa2c3ah2cljtn232u&cover_image=false&theme=default&show_offline=true&background_color=1a1b27&interchange=true&profanity=false&bar_color=bf91f3&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lvrdius5exa2c3ah2cljtn232u&redirect=true)e)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+---
+
 # 🤝 Soft Skills
 
 ✨ Trabalho em equipe  
@@ -83,7 +100,7 @@
 
 # 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ana-clara-cacao/)
 [![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)](https://github.com/AnaClaraK)
 
 ---
