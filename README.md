@@ -79,14 +79,13 @@
 - 🏅 Competência Transversal: Segurança no Trabalho — SENAI (2025)
 
 ---
-
 # 🎵 Spotify
 
-<div align="center">
-
-[![Spotify]([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lvrdius5exa2c3ah2cljtn232u&cover_image=false&theme=default&show_offline=true&background_color=1a1b27&interchange=true&profanity=false&bar_color=bf91f3&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lvrdius5exa2c3ah2cljtn232u&redirect=true)e)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
+<p align="center">
+  <a href="https://open.spotify.com/user/31lvrdius5exa2c3ah2cljtn232u">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lvrdius5exa2c3ah2cljtn232u&cover_image=false&theme=default&show_offline=true&background_color=1a1b27&interchange=true&profanity=false&bar_color=bf91f3&bar_color_cover=false">
+  </a>
+</p>
 
 ---
 
