@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Ana Clara!
+# 👋 Olá, eu sou a Ana Clara!
 
 💻 Desenvolvedora Full-Stack em formação  
 🎯 Focada em criar soluções úteis, funcionais e com boa experiência para o usuário.  
@@ -15,8 +15,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaClaraK&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnaClaraK&theme=tokyonight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnaClaraK&theme=tokyonight&utcOffset=-3)
-
 </div>
 
 ---
@@ -26,7 +24,7 @@
 - 🎓 Técnica em Desenvolvimento de Sistemas — SENAI Santo Paschoal Crepaldi (2025 - 2026)
 - 🌎 Português Nativo
 - 🇺🇸 Inglês Intermediário (B1)
-- 📍 Brasil
+- 📍 Presidente Prudente - SP
 
 ---
 
@@ -42,10 +40,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
 
 ## 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![Notion](https://img.shields.io/badge/Notion-111?style=for-the-badge&logo=notion)
-![Canva](https://img.shields.io/badge/Canva-111?style=for-the-badge&logo=canva)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=notion" height="45" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" />
+  <img src="https://skillicons.dev/icons?i=ps" height="45" />
+</p>
 ---
 
 # 📚 Conhecimentos
